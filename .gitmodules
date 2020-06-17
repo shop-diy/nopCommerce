@@ -1,0 +1,12 @@
+[submodule "src/Plugins/Nop.Plugin.Payments.SumUp"]
+	path = src/Plugins/Nop.Plugin.Payments.SumUp
+	url = https://github.com/shop-diy/Nop.Plugin.Payments.SumUp.git
+[submodule "src/Plugins/Nop.Plugin.API"]
+	path = src/Plugins/Nop.Plugin.API
+	url = https://github.com/shop-diy/Nop.Plugin.API.git
+[submodule "src/Plugins/Nop.Plugin.API.Sample"]
+	path = src/Plugins/Nop.Plugin.API.Sample
+	url = https://github.com/shop-diy/Nop.Plugin.API.Sample.git
+[submodule "src/Plugins/Nop.Plugins.Widget.3DPrint"]
+	path = src/Plugins/Nop.Plugins.Widget.3DPrint
+	url = https://github.com/shop-diy/Nop.Plugins.Widget.3DPrint.git
